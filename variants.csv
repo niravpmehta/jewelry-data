@@ -2,4 +2,4 @@ Variant_Type,Name,UI_Control
 MT,Metal Type,buttons
 DI,Diamond Quality,buttons
 CT,Carat Weight,buttons
-SZ,Size,dropdown
+SZ,Ring Size,dropdown
