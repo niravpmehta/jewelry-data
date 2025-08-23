@@ -1,0 +1,5 @@
+Variant_Type,Name,UI_Control
+MT,Metal,buttons
+DI,Diamond,buttons
+CT,Carat,buttons
+SZ,Size,dropdown
