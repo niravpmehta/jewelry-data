@@ -1,5 +1,5 @@
 Variant_Type,Name,UI_Control
-MT,Metal,buttons
-DI,Diamond,buttons
-CT,Carat,buttons
+MT,Metal Type,buttons
+DI,Diamond Quality,buttons
+CT,Carat Weight,buttons
 SZ,Size,dropdown
