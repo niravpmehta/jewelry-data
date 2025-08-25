@@ -1,6 +1,6 @@
 Variant_Type,Name,UI_Control
-MT,Metal Type,buttons
-DQ,Diamond Quality,buttons
+MTL,Metal Type,buttons
+DIA,Diamond Quality,buttons
 CTTW,Carat Weight,buttons
 RNGSZ,Ring Size,dropdown
 BRCSZ,Bracelet Length,dropdown
