@@ -1,4 +1,4 @@
-﻿SizeVariantType,Size_Number,Size1_Code,Size1_Name,Size2_Code,Size2_Name,Size3_Code,Size3_Name,Size4_Code,Size4_Name
+﻿SizeVariantType,Size_Value,Size1_Code,Size1_Name,Size2_Code,Size2_Name,Size3_Code,Size3_Name,Size4_Code,Size4_Name
 RNGSZ,44,03F,3,F00,F,440,44,,
 RNGSZ,45,03Q,3.25,F50,F½,450,45,P05,5
 RNGSZ,45.5,03H,3.5,G00,G,455,45.5,,
@@ -103,3 +103,4 @@ NCKSZ,63,25F,"25.00""",630,63.0 cm,630,63.0 cm,,
 NCKSZ,64,,,640,64.0 cm,640,64.0 cm,,
 NCKSZ,65,25H,"25.50""",650,65.0 cm,650,65.0 cm,,
 NCKSZ,66,26F,"26.00""",660,66.0 cm,660,66.0 cm,,
+
