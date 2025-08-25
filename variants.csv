@@ -2,8 +2,5 @@ Variant_Type,Name,UI_Control
 MTL,Metal Type,buttons
 DIA,Diamond Quality,buttons
 CTTW,Carat Weight,buttons
-RNGSZ,Ring Size,dropdown
-BRCSZ,Bracelet Length,dropdown
-NCKSZ,Necklace Length,dropdown
 DIASZ,Diamond Size,buttons
 STN,Station Count,buttons
