@@ -4,5 +4,6 @@ DIA,Diamond Quality,buttons
 CTTW,Carat Weight,buttons
 DIASZ,Diamond Size,buttons
 STN,Station Count,buttons
-RINGW,Ring Width,buttonclr
-SHANKCOV,Shank Coverage,buttonclr
+RINGW,Ring Width,buttons
+SHANKCOV,Shank Coverage,buttons
+RGHEAD,Ring Head,dropdown
