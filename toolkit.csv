@@ -1,5 +1,5 @@
 ﻿Rank,Name,URL
-1,CAD Form,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/CADRequest.html
+1,CAD Order Form,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/CADRequest.html
 2,Quotation Form,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/quote.html
 3,Price Configurator,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/catalog.html?loc=G
 4,Design Bank,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/designCatalog.html
@@ -7,3 +7,4 @@
 6,Metal Convertor,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/MetalConvertorGrid.html
 7,Ring Size Chart,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/RingSize.html
 8,Eternity Calcultor,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/EternityEstimator.html
+9,Customer CAD Submission,https://neucad.diamantra.com/
