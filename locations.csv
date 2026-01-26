@@ -1,5 +1,5 @@
 ﻿Location_Code,Name,Address,Phone,Email,Tax_Caption,Currency,FXR,Caption,Size,Duty,Markup,Logo
-T,"Diamantra, Inc.","3303 Northland Dr, #203 | Austin, TX 78731",T: (512) 535-5333 | M: (512) 470-0415,austin@diamantra.com,,USD,1,1,SizeName1,0.2,,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/DM.png
+T,Diamantra Inc.,"3303 Northland Dr, #203 | Austin, TX 78731",T: (512) 535-5333 | M: (512) 470-0415,austin@diamantra.com,,USD,1,1,SizeName1,0.2,,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/DM.png
 G,Diamantra GmbH,Hirschstr. 29 | 70173 Stuttgart,T: +49 711 693 8242 | H: +49 172 14 15 110,de@diamantra.com,zzgl. 19% MwSt.,EUR,0.8898,2,SizeName3,0.05,0.05,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/DM.png
 I,World Shiner Italia S.r.l.,Via Camillo Cavour 108 | 50121 Firenze,T: +39 055 269 8835,italy@worldshiner.com,più 22% IVA,EUR,0.8898,2,SizeName3,0.05,0,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/WS.png
 P,Diacrown sp. z o.o.,ul. Solidarnosci 117 / Office 505 | Warsaw 00-140,T: +48 794 730 040,polska@worldshiner.com,plus 23% VAT,USD,1,2,SizeName4,0.02,0,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/WS.png
