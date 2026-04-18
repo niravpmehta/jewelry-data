@@ -15,8 +15,8 @@ Setting,FP,French Pave,1,https://tools.ezjems.com/tools/images/FP.jpg
 Setting,MP,Micro Prong,2,https://tools.ezjems.com/tools/images/MP.jpg
 Setting,SP,Shared Prong,3,https://tools.ezjems.com/tools/images/SP.jpg
 Setting,UP,Scalloped (U),4,https://tools.ezjems.com/tools/images/UP.jpg
-Setting,FB,Bezel,1,https://tools.ezjems.com/tools/images/FB.jpg
-Setting,PR,Prong,2,https://tools.ezjems.com/tools/images/PR.jpg
+Setting,FB,Bezel,6,https://tools.ezjems.com/tools/images/FB.jpg
+Setting,PR,Prong,5,https://tools.ezjems.com/tools/images/PR.jpg
 StoneCount,05,5 Stone,1,
 StoneCount,07,7 Stone,2,
 StoneCount,50,50%,3,
