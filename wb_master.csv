@@ -22,13 +22,13 @@ StoneCount,07,7 Stone,2,
 StoneCount,50,50%,3,
 StoneCount,75,75%,4,
 StoneCount,00,Eternity,5,
-Metal,14WG,14WG,1,https://tools.ezjems.com/tools/images/14WG.webp
-Metal,14YG,14YG,2,https://tools.ezjems.com/tools/images/14YG.webp
-Metal,14RG,14RG,3,https://tools.ezjems.com/tools/images/14RG.webp
-Metal,18WG,18WG,4,https://tools.ezjems.com/tools/images/18WG.webp
-Metal,18YG,18YG,5,https://tools.ezjems.com/tools/images/18YG.webp
-Metal,18RG,18RG,6,https://tools.ezjems.com/tools/images/18RG.webp
-Metal,PLAT,PLAT,7,https://tools.ezjems.com/tools/images/PLAT.webp
+Metal,14WG,14K White Gold,1,https://tools.ezjems.com/tools/images/14WG.webp
+Metal,14YG,14K Yellow Gold,2,https://tools.ezjems.com/tools/images/14YG.webp
+Metal,14RG,14K Rose Gold,3,https://tools.ezjems.com/tools/images/14RG.webp
+Metal,18WG,18K White Gold,4,https://tools.ezjems.com/tools/images/18WG.webp
+Metal,18YG,18K Yellow Gold,5,https://tools.ezjems.com/tools/images/18YG.webp
+Metal,18RG,18K Rose Gold,6,https://tools.ezjems.com/tools/images/18RG.webp
+Metal,PLAT,Platinum,7,https://tools.ezjems.com/tools/images/PLAT.webp
 Quality,12,F-G / VS (Mined),1,
 Quality,23,G-H / SI (Mined),2,
 Quality,LG,E-F / VS  (Lab Grown),3,
