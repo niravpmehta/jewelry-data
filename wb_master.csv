@@ -1,0 +1,85 @@
+Type,Code,Name,Rank,ImageURL
+Shape,RD,Round,1,https://tools.ezjems.com/tools/images/Round.png
+Shape,EH,Emerald (EW),3,https://tools.ezjems.com/tools/images/Emerald (EW).png
+Shape,EM,Emerald,2,https://tools.ezjems.com/tools/images/Emerald.png
+Shape,OH,Oval (EW),5,https://tools.ezjems.com/tools/images/Oval (EW).png
+Shape,OV,Oval,4,https://tools.ezjems.com/tools/images/Oval.png
+Shape,AS,Asscher,6,https://tools.ezjems.com/tools/images/Asscher.png
+Shape,CU,Cushion,7,https://tools.ezjems.com/tools/images/Cushion.png
+Shape,RT,Radiant,8,https://tools.ezjems.com/tools/images/Radiant.png
+Shape,PR,Princess,9,https://tools.ezjems.com/tools/images/Princess.png
+Shape,PS,Pear,10,https://tools.ezjems.com/tools/images/Pear.png
+Shape,MQ,Marquise,11,https://tools.ezjems.com/tools/images/Marquise.png
+Shape,HT,Heart,12,https://tools.ezjems.com/tools/images/Heart.png
+Setting,FP,French Pave,1,https://tools.ezjems.com/tools/images/FP.jpg
+Setting,MP,Micro Prong,2,https://tools.ezjems.com/tools/images/MP.jpg
+Setting,SP,Shared Prong,3,https://tools.ezjems.com/tools/images/SP.jpg
+Setting,UP,Scalloped (U),4,https://tools.ezjems.com/tools/images/UP.jpg
+Setting,FB,Bezel,1,https://tools.ezjems.com/tools/images/FB.jpg
+Setting,PR,Prong,2,https://tools.ezjems.com/tools/images/PR.jpg
+StoneCount,05,5 Stone,1,
+StoneCount,07,7 Stone,2,
+StoneCount,50,50%,3,
+StoneCount,75,75%,4,
+StoneCount,00,Eternity,5,
+Metal,14WG,14WG,1,https://tools.ezjems.com/tools/images/14WG.webp
+Metal,14YG,14YG,2,https://tools.ezjems.com/tools/images/14YG.webp
+Metal,14RG,14RG,3,https://tools.ezjems.com/tools/images/14RG.webp
+Metal,14WG,14WG,4,https://tools.ezjems.com/tools/images/18WG.webp
+Metal,14YG,14YG,5,https://tools.ezjems.com/tools/images/18YG.webp
+Metal,14RG,14RG,6,https://tools.ezjems.com/tools/images/18RG.webp
+Metal,PLAT,PLAT,7,https://tools.ezjems.com/tools/images/PLAT.webp
+Quality,12,F-G / VS (Mined),1,
+Quality,23,G-H / SI (Mined),2,
+Quality,LG,E-F / VS  (Lab Grown),3,
+RingSize,03F,3.00,14.07,
+RingSize,03Q,3.25,14.27,
+RingSize,03H,3.50,14.47,
+RingSize,03T,3.75,14.68,
+RingSize,04F,4.00,14.88,
+RingSize,04Q,4.25,15.08,
+RingSize,04H,4.50,15.29,
+RingSize,04T,4.75,15.49,
+RingSize,05F,5.00,15.69,
+RingSize,05Q,5.25,15.9,
+RingSize,05H,5.50,16.1,
+RingSize,05T,5.75,16.3,
+RingSize,06F,6.00,16.51,
+RingSize,06Q,6.25,16.71,
+RingSize,06H,6.50,16.91,
+RingSize,06T,6.75,17.12,
+RingSize,07F,7.00,17.32,
+RingSize,07Q,7.25,17.52,
+RingSize,07H,7.50,17.73,
+RingSize,07T,7.75,17.93,
+RingSize,08F,8.00,18.13,
+RingSize,08Q,8.25,18.34,
+RingSize,08H,8.50,18.54,
+RingSize,08T,8.75,18.74,
+RingSize,09F,9.00,18.95,
+RingSize,09Q,9.25,19.15,
+RingSize,09H,9.50,19.35,
+RingSize,09T,9.75,19.55,
+RingSize,10F,10.00,19.76,
+RingSize,10Q,10.25,19.96,
+RingSize,10H,10.50,20.16,
+RingSize,10T,10.75,20.37,
+RingSize,11F,11.00,20.57,
+RingSize,11Q,11.25,20.77,
+RingSize,11H,11.50,20.98,
+RingSize,11T,11.75,21.18,
+RingSize,12F,12.00,21.38,
+RingSize,12Q,12.25,21.59,
+RingSize,12H,12.50,21.79,
+RingSize,12T,12.75,21.99,
+RingSize,13F,13.00,22.2,
+RingSize,13Q,13.25,22.4,
+RingSize,13H,13.50,22.6,
+RingSize,13T,13.75,22.81,
+RingSize,14F,14.00,23.01,
+RingSize,14Q,14.25,23.21,
+RingSize,14H,14.50,23.42,
+RingSize,14T,14.75,23.62,
+RingSize,15F,15.00,23.82,
+RingSize,15Q,15.25,24.03,
+RingSize,15H,15.50,24.23,
