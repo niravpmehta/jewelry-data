@@ -1967,3 +1967,291 @@ WBPSPR,WBPSPR-025W75,Pear,Prong,75%,0.25 ct,18,F-G / VS (Mined),4920
 WBPSPR,WBPSPR-025W75,Pear,Prong,75%,0.25 ct,18,E-F / VS  (Lab Grown),1650
 WBPSPR,WBPSPR-025W75,Pear,Prong,75%,0.25 ct,PLAT,F-G / VS (Mined),4895
 WBPSPR,WBPSPR-025W75,Pear,Prong,75%,0.25 ct,PLAT,E-F / VS  (Lab Grown),1630
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,10,F-G / VS (Mined),1760
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,10,E-F / VS  (Lab Grown),615
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,14,F-G / VS (Mined),1890
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,14,E-F / VS  (Lab Grown),745
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,18,F-G / VS (Mined),2025
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,18,E-F / VS  (Lab Grown),880
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,PLAT,F-G / VS (Mined),2010
+WBMQPR,WBMQPR-005W00,Marquise,Prong,Eternity,0.05 ct,PLAT,E-F / VS  (Lab Grown),865
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,10,F-G / VS (Mined),3820
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,10,E-F / VS  (Lab Grown),1040
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,14,F-G / VS (Mined),3975
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,14,E-F / VS  (Lab Grown),1190
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,18,F-G / VS (Mined),4135
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,18,E-F / VS  (Lab Grown),1355
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,PLAT,F-G / VS (Mined),4125
+WBMQPR,WBMQPR-015W00,Marquise,Prong,Eternity,0.15 ct,PLAT,E-F / VS  (Lab Grown),1340
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,10,F-G / VS (Mined),5830
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,10,E-F / VS  (Lab Grown),1420
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,14,F-G / VS (Mined),6020
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,14,E-F / VS  (Lab Grown),1610
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,18,F-G / VS (Mined),6225
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,18,E-F / VS  (Lab Grown),1815
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,PLAT,F-G / VS (Mined),6205
+WBMQPR,WBMQPR-025W00,Marquise,Prong,Eternity,0.25 ct,PLAT,E-F / VS  (Lab Grown),1795
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,10,F-G / VS (Mined),1055
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,10,E-F / VS  (Lab Grown),485
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,14,F-G / VS (Mined),1235
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,14,E-F / VS  (Lab Grown),660
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,18,F-G / VS (Mined),1420
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,18,E-F / VS  (Lab Grown),845
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,PLAT,F-G / VS (Mined),1400
+WBMQPR,WBMQPR-005W50,Marquise,Prong,50%,0.05 ct,PLAT,E-F / VS  (Lab Grown),830
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,10,F-G / VS (Mined),2205
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,10,E-F / VS  (Lab Grown),745
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,14,F-G / VS (Mined),2415
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,14,E-F / VS  (Lab Grown),960
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,18,F-G / VS (Mined),2640
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,18,E-F / VS  (Lab Grown),1185
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,PLAT,F-G / VS (Mined),2620
+WBMQPR,WBMQPR-015W50,Marquise,Prong,50%,0.15 ct,PLAT,E-F / VS  (Lab Grown),1165
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,10,F-G / VS (Mined),3195
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,10,E-F / VS  (Lab Grown),990
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,14,F-G / VS (Mined),3490
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,14,E-F / VS  (Lab Grown),1285
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,18,F-G / VS (Mined),3795
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,18,E-F / VS  (Lab Grown),1590
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,PLAT,F-G / VS (Mined),3770
+WBMQPR,WBMQPR-025W50,Marquise,Prong,50%,0.25 ct,PLAT,E-F / VS  (Lab Grown),1565
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,10,F-G / VS (Mined),1435
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,10,E-F / VS  (Lab Grown),555
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,14,F-G / VS (Mined),1585
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,14,E-F / VS  (Lab Grown),710
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,18,F-G / VS (Mined),1750
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,18,E-F / VS  (Lab Grown),870
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,PLAT,F-G / VS (Mined),1735
+WBMQPR,WBMQPR-005W75,Marquise,Prong,75%,0.05 ct,PLAT,E-F / VS  (Lab Grown),855
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,10,F-G / VS (Mined),3180
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,10,E-F / VS  (Lab Grown),930
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,14,F-G / VS (Mined),3365
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,14,E-F / VS  (Lab Grown),1115
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,18,F-G / VS (Mined),3560
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,18,E-F / VS  (Lab Grown),1305
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,PLAT,F-G / VS (Mined),3545
+WBMQPR,WBMQPR-015W75,Marquise,Prong,75%,0.15 ct,PLAT,E-F / VS  (Lab Grown),1290
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,10,F-G / VS (Mined),4665
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,10,E-F / VS  (Lab Grown),1235
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,14,F-G / VS (Mined),4910
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,14,E-F / VS  (Lab Grown),1480
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,18,F-G / VS (Mined),5165
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,18,E-F / VS  (Lab Grown),1735
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,PLAT,F-G / VS (Mined),5140
+WBMQPR,WBMQPR-025W75,Marquise,Prong,75%,0.25 ct,PLAT,E-F / VS  (Lab Grown),1710
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,10,F-G / VS (Mined),1850
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,10,E-F / VS  (Lab Grown),645
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,14,F-G / VS (Mined),1985
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,14,E-F / VS  (Lab Grown),780
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,18,F-G / VS (Mined),2125
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,18,E-F / VS  (Lab Grown),925
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,PLAT,F-G / VS (Mined),2115
+WBMQFB,WBMQFB-005W00,Marquise,Bezel,Eternity,0.05 ct,PLAT,E-F / VS  (Lab Grown),915
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,10,F-G / VS (Mined),4010
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,10,E-F / VS  (Lab Grown),1090
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,14,F-G / VS (Mined),4175
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,14,E-F / VS  (Lab Grown),1255
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,18,F-G / VS (Mined),4345
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,18,E-F / VS  (Lab Grown),1425
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,PLAT,F-G / VS (Mined),4330
+WBMQFB,WBMQFB-015W00,Marquise,Bezel,Eternity,0.15 ct,PLAT,E-F / VS  (Lab Grown),1405
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,10,F-G / VS (Mined),6115
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,10,E-F / VS  (Lab Grown),1485
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,14,F-G / VS (Mined),6320
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,14,E-F / VS  (Lab Grown),1690
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,18,F-G / VS (Mined),6535
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,18,E-F / VS  (Lab Grown),1905
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,PLAT,F-G / VS (Mined),6520
+WBMQFB,WBMQFB-025W00,Marquise,Bezel,Eternity,0.25 ct,PLAT,E-F / VS  (Lab Grown),1890
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,10,F-G / VS (Mined),1110
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,10,E-F / VS  (Lab Grown),510
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,14,F-G / VS (Mined),1290
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,14,E-F / VS  (Lab Grown),695
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,18,F-G / VS (Mined),1490
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,18,E-F / VS  (Lab Grown),885
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,PLAT,F-G / VS (Mined),1470
+WBMQFB,WBMQFB-005W50,Marquise,Bezel,50%,0.05 ct,PLAT,E-F / VS  (Lab Grown),870
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,10,F-G / VS (Mined),2315
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,10,E-F / VS  (Lab Grown),780
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,14,F-G / VS (Mined),2535
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,14,E-F / VS  (Lab Grown),1010
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,18,F-G / VS (Mined),2770
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,18,E-F / VS  (Lab Grown),1245
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,PLAT,F-G / VS (Mined),2750
+WBMQFB,WBMQFB-015W50,Marquise,Bezel,50%,0.15 ct,PLAT,E-F / VS  (Lab Grown),1225
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,10,F-G / VS (Mined),3360
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,10,E-F / VS  (Lab Grown),1045
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,14,F-G / VS (Mined),3665
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,14,E-F / VS  (Lab Grown),1350
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,18,F-G / VS (Mined),3985
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,18,E-F / VS  (Lab Grown),1670
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,PLAT,F-G / VS (Mined),3960
+WBMQFB,WBMQFB-025W50,Marquise,Bezel,50%,0.25 ct,PLAT,E-F / VS  (Lab Grown),1645
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,10,F-G / VS (Mined),1505
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,10,E-F / VS  (Lab Grown),585
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,14,F-G / VS (Mined),1665
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,14,E-F / VS  (Lab Grown),745
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,18,F-G / VS (Mined),1830
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,18,E-F / VS  (Lab Grown),915
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,PLAT,F-G / VS (Mined),1820
+WBMQFB,WBMQFB-005W75,Marquise,Bezel,75%,0.05 ct,PLAT,E-F / VS  (Lab Grown),900
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,10,F-G / VS (Mined),3340
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,10,E-F / VS  (Lab Grown),975
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,14,F-G / VS (Mined),3535
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,14,E-F / VS  (Lab Grown),1170
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,18,F-G / VS (Mined),3740
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,18,E-F / VS  (Lab Grown),1370
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,PLAT,F-G / VS (Mined),3720
+WBMQFB,WBMQFB-015W75,Marquise,Bezel,75%,0.15 ct,PLAT,E-F / VS  (Lab Grown),1355
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,10,F-G / VS (Mined),4900
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,10,E-F / VS  (Lab Grown),1295
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,14,F-G / VS (Mined),5155
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,14,E-F / VS  (Lab Grown),1555
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,18,F-G / VS (Mined),5425
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,18,E-F / VS  (Lab Grown),1820
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,PLAT,F-G / VS (Mined),5395
+WBMQFB,WBMQFB-025W75,Marquise,Bezel,75%,0.25 ct,PLAT,E-F / VS  (Lab Grown),1795
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,10,F-G / VS (Mined),2195
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,10,E-F / VS  (Lab Grown),765
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,14,F-G / VS (Mined),2320
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,14,E-F / VS  (Lab Grown),880
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,18,F-G / VS (Mined),2445
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,18,E-F / VS  (Lab Grown),1010
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,PLAT,F-G / VS (Mined),2430
+WBHTPR,WBHTPR-010W00,Heart,Prong,Eternity,0.10 ct,PLAT,E-F / VS  (Lab Grown),1000
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,10,F-G / VS (Mined),4205
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,10,E-F / VS  (Lab Grown),1195
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,14,F-G / VS (Mined),4340
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,14,E-F / VS  (Lab Grown),1330
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,18,F-G / VS (Mined),4480
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,18,E-F / VS  (Lab Grown),1475
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,PLAT,F-G / VS (Mined),4470
+WBHTPR,WBHTPR-020W00,Heart,Prong,Eternity,0.20 ct,PLAT,E-F / VS  (Lab Grown),1465
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,10,F-G / VS (Mined),6200
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,10,E-F / VS  (Lab Grown),1605
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,14,F-G / VS (Mined),6385
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,14,E-F / VS  (Lab Grown),1785
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,18,F-G / VS (Mined),6575
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,18,E-F / VS  (Lab Grown),1975
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,PLAT,F-G / VS (Mined),6555
+WBHTPR,WBHTPR-030W00,Heart,Prong,Eternity,0.30 ct,PLAT,E-F / VS  (Lab Grown),1960
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,10,F-G / VS (Mined),1275
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,10,E-F / VS  (Lab Grown),555
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,14,F-G / VS (Mined),1445
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,14,E-F / VS  (Lab Grown),730
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,18,F-G / VS (Mined),1630
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,18,E-F / VS  (Lab Grown),915
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,PLAT,F-G / VS (Mined),1610
+WBHTPR,WBHTPR-010W50,Heart,Prong,50%,0.10 ct,PLAT,E-F / VS  (Lab Grown),895
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,10,F-G / VS (Mined),2245
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,10,E-F / VS  (Lab Grown),805
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,14,F-G / VS (Mined),2465
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,14,E-F / VS  (Lab Grown),1030
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,18,F-G / VS (Mined),2705
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,18,E-F / VS  (Lab Grown),1265
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,PLAT,F-G / VS (Mined),2680
+WBHTPR,WBHTPR-020W50,Heart,Prong,50%,0.20 ct,PLAT,E-F / VS  (Lab Grown),1240
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,10,F-G / VS (Mined),3525
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,10,E-F / VS  (Lab Grown),1115
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,14,F-G / VS (Mined),3805
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,14,E-F / VS  (Lab Grown),1395
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,18,F-G / VS (Mined),4100
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,18,E-F / VS  (Lab Grown),1690
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,PLAT,F-G / VS (Mined),4075
+WBHTPR,WBHTPR-030W50,Heart,Prong,50%,0.30 ct,PLAT,E-F / VS  (Lab Grown),1665
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,10,F-G / VS (Mined),1015
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,10,E-F / VS  (Lab Grown),465
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,14,F-G / VS (Mined),1160
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,14,E-F / VS  (Lab Grown),610
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,18,F-G / VS (Mined),1320
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,18,E-F / VS  (Lab Grown),765
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,PLAT,F-G / VS (Mined),1300
+WBHTPR,WBHTPR-010W75,Heart,Prong,75%,0.10 ct,PLAT,E-F / VS  (Lab Grown),750
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,10,F-G / VS (Mined),2495
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,10,E-F / VS  (Lab Grown),825
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,14,F-G / VS (Mined),2675
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,14,E-F / VS  (Lab Grown),1005
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,18,F-G / VS (Mined),2860
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,18,E-F / VS  (Lab Grown),1195
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,PLAT,F-G / VS (Mined),2845
+WBHTPR,WBHTPR-020W75,Heart,Prong,75%,0.20 ct,PLAT,E-F / VS  (Lab Grown),1175
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,10,F-G / VS (Mined),4345
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,10,E-F / VS  (Lab Grown),1245
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,14,F-G / VS (Mined),4580
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,14,E-F / VS  (Lab Grown),1475
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,18,F-G / VS (Mined),4825
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,18,E-F / VS  (Lab Grown),1720
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,PLAT,F-G / VS (Mined),4800
+WBHTPR,WBHTPR-030W75,Heart,Prong,75%,0.30 ct,PLAT,E-F / VS  (Lab Grown),1700
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,10,F-G / VS (Mined),2305
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,10,E-F / VS  (Lab Grown),800
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,14,F-G / VS (Mined),2430
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,14,E-F / VS  (Lab Grown),925
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,18,F-G / VS (Mined),2565
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,18,E-F / VS  (Lab Grown),1060
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,PLAT,F-G / VS (Mined),2550
+WBHTFB,WBHTFB-010W00,Heart,Bezel,Eternity,0.10 ct,PLAT,E-F / VS  (Lab Grown),1050
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,10,F-G / VS (Mined),4415
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,10,E-F / VS  (Lab Grown),1255
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,14,F-G / VS (Mined),4560
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,14,E-F / VS  (Lab Grown),1400
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,18,F-G / VS (Mined),4705
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,18,E-F / VS  (Lab Grown),1550
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,PLAT,F-G / VS (Mined),4695
+WBHTFB,WBHTFB-020W00,Heart,Bezel,Eternity,0.20 ct,PLAT,E-F / VS  (Lab Grown),1535
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,10,F-G / VS (Mined),6510
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,10,E-F / VS  (Lab Grown),1690
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,14,F-G / VS (Mined),6700
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,14,E-F / VS  (Lab Grown),1875
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,18,F-G / VS (Mined),6905
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,18,E-F / VS  (Lab Grown),2075
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,PLAT,F-G / VS (Mined),6885
+WBHTFB,WBHTFB-030W00,Heart,Bezel,Eternity,0.30 ct,PLAT,E-F / VS  (Lab Grown),2055
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,10,F-G / VS (Mined),1335
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,10,E-F / VS  (Lab Grown),585
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,14,F-G / VS (Mined),1515
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,14,E-F / VS  (Lab Grown),765
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,18,F-G / VS (Mined),1710
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,18,E-F / VS  (Lab Grown),960
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,PLAT,F-G / VS (Mined),1690
+WBHTFB,WBHTFB-010W50,Heart,Bezel,50%,0.10 ct,PLAT,E-F / VS  (Lab Grown),940
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,10,F-G / VS (Mined),2360
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,10,E-F / VS  (Lab Grown),845
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,14,F-G / VS (Mined),2590
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,14,E-F / VS  (Lab Grown),1080
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,18,F-G / VS (Mined),2840
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,18,E-F / VS  (Lab Grown),1330
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,PLAT,F-G / VS (Mined),2815
+WBHTFB,WBHTFB-020W50,Heart,Bezel,50%,0.20 ct,PLAT,E-F / VS  (Lab Grown),1305
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,10,F-G / VS (Mined),3700
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,10,E-F / VS  (Lab Grown),1170
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,14,F-G / VS (Mined),3995
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,14,E-F / VS  (Lab Grown),1465
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,18,F-G / VS (Mined),4305
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,18,E-F / VS  (Lab Grown),1780
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,PLAT,F-G / VS (Mined),4280
+WBHTFB,WBHTFB-030W50,Heart,Bezel,50%,0.30 ct,PLAT,E-F / VS  (Lab Grown),1750
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,10,F-G / VS (Mined),1065
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,10,E-F / VS  (Lab Grown),485
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,14,F-G / VS (Mined),1220
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,14,E-F / VS  (Lab Grown),645
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,18,F-G / VS (Mined),1380
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,18,E-F / VS  (Lab Grown),805
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,PLAT,F-G / VS (Mined),1370
+WBHTFB,WBHTFB-010W75,Heart,Bezel,75%,0.10 ct,PLAT,E-F / VS  (Lab Grown),790
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,10,F-G / VS (Mined),2620
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,10,E-F / VS  (Lab Grown),870
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,14,F-G / VS (Mined),2810
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,14,E-F / VS  (Lab Grown),1055
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,18,F-G / VS (Mined),3005
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,18,E-F / VS  (Lab Grown),1250
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,PLAT,F-G / VS (Mined),2990
+WBHTFB,WBHTFB-020W75,Heart,Bezel,75%,0.20 ct,PLAT,E-F / VS  (Lab Grown),1235
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,10,F-G / VS (Mined),4570
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,10,E-F / VS  (Lab Grown),1310
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,14,F-G / VS (Mined),4810
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,14,E-F / VS  (Lab Grown),1555
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,18,F-G / VS (Mined),5065
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,18,E-F / VS  (Lab Grown),1810
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,PLAT,F-G / VS (Mined),5040
+WBHTFB,WBHTFB-030W75,Heart,Bezel,75%,0.30 ct,PLAT,E-F / VS  (Lab Grown),1780
