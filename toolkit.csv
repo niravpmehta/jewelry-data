@@ -1,14 +1,14 @@
 ﻿Rank,Name,URL,Group,Access
-1,CAD Order Form,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/CADRequest.html,Forms,F
-2,Quotation Form,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/quote.html,Forms,F
-3,Design Bank,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/designCatalog.html,Forms,F
+1,CAD Order Form,https://tools.ezjems.com/tools/CADRequest.html,Forms,F
+2,Quotation Form,https://tools.ezjems.com/tools/quote.html,Forms,F
+3,Design Bank,https://tools.ezjems.com/tools/catalog/designbank/designCatalog.html,Forms,F
 4,Diamantra Jewelry,https://jewels.diamantra.com,Catalogs,F
-5,Active Line,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/catalog.html?loc=G,Catalogs,F
-6,Sample Line,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/sampleCatalog.html?loc=G,Catalogs,F
-7,Collections/Programs,https://diamantra.s3.dualstack.us-east-2.amazonaws.com/jewelry/selectCollection.html,Catalogs,F
+5,Active Line,https://tools.ezjems.com/tools/catalog/liveline/catalog.html?loc=G,Catalogs,F
+6,Sample Line,https://tools.ezjems.com/tools/catalog/sampleline/sampleCatalog.html?loc=G,Catalogs,F
+7,Collections/Programs,https://tools.ezjems.com/tools/catalog/liveline/selectCollection.html,Catalogs,F
 8,DM Jewelry Calc v3,https://docs.google.com/spreadsheets/d/1ni6bTeF5bm_-0TkTOLwwswkH5qny_Znt6VQyJOw7Q00/edit?usp=sharing,Pricing,X
 9,WS Jewelry Calc v3,https://docs.google.com/spreadsheets/d/1VB0An3DEcy2uQXuBOUPgl4V_49wBKq077_UZMbFSUGU/edit?usp=sharing,Pricing,X
-10,Weight Estimator,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/JewelryWeightEstimator.html,Tools,F
-11,Metal Convertor,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/MetalConvertorGrid.html,Tools,F
-12,Eternity Calcultor,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/EternityEstimator.html,Tools,F
-13,Ring Size Chart,https://mwljewels.s3.dualstack.us-east-2.amazonaws.com/software/RingSize.html,Tools,F
+10,Weight Estimator,https://tools.ezjems.com/tools/JewelryWeightEstimator.html,Tools,F
+11,Metal Convertor,https://tools.ezjems.com/tools/MetalConvertorGrid.html,Tools,F
+12,Eternity Calcultor,https://tools.ezjems.com/tools/EternityEstimator.html,Tools,F
+13,Ring Size Chart,https://tools.ezjems.com/tools/RingSize.html,Tools,F
