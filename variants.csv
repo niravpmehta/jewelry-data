@@ -10,3 +10,5 @@ RGHEAD,Ring Head,dropdown
 MMCTW,Stone Size / Total Weight,buttons
 CSSZ,Center Stone Size,buttons
 BXCL,Box Clasp,dropdown
+GEMC,Gemstone Color,dropdown
+DIAC,Diamond Color,dropdown
